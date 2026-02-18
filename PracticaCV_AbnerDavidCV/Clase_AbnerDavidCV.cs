@@ -8,5 +8,14 @@ namespace PracticaCV_AbnerDavidCV
 {
     internal class Clase_AbnerDavidCV
     {
+        // CONSTANTES
+
+        // MIEMBROS
+
+        // CONSTRUCTORES
+
+        // MÉTODOS PRIVADOS
+
+        // MÉTODOS PÚBLICOS
     }
 }
